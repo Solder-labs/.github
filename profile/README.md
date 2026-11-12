@@ -1,3 +1,5 @@
+<img src="logo.svg" alt="Solder Labs logo" width="120" align="right" />
+
 # Solder Labs 🔧
 
 A small corner of the internet where [@NietThijmen](https://github.com/NietThijmen) tinkers with side projects.

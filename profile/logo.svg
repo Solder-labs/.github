@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Solder Labs logo">
+  <rect width="512" height="512" rx="112" fill="#1b1d23"/>
+  <!-- liquid solder -->
+  <path d="M164 318 Q210 298 256 318 T348 318 L372 370 Q384 398 356 402 H156 Q128 398 140 370 Z" fill="#f59e0b"/>
+  <path d="M164 318 Q210 298 256 318 T348 318" fill="none" stroke="#fcd34d" stroke-width="6" stroke-linecap="round"/>
+  <!-- flask outline -->
+  <path d="M212 104 H300 M224 104 V228 L138 372 Q124 400 156 402 H356 Q388 400 374 372 L288 228 V104"
+        fill="none" stroke="#e5e7eb" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- bubbles -->
+  <circle cx="232" cy="352" r="11" fill="#fff7ed" opacity=".9"/>
+  <circle cx="284" cy="368" r="7" fill="#fff7ed" opacity=".9"/>
+  <circle cx="318" cy="346" r="9" fill="#fff7ed" opacity=".9"/>
+  <!-- solder drop rising from the neck -->
+  <path d="M256 150 Q282 186 256 206 Q230 186 256 150 Z" fill="#cbd5e1"/>
+</svg>
